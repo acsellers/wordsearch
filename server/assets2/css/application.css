@@ -1,0 +1,42 @@
+body {
+    background-color: #F53A59;
+    color: #001D2D;
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 16px;
+}
+form {
+    background-color: #15A88C;
+    border-radius: 16px;
+}
+fieldset {
+    border:none;
+}
+input {
+    background-color: #B7D9C8;
+    
+    border: none;
+}
+input:focus {
+    background-color: #F3F5F4;
+    outline:none;
+}
+input[type="text"] {
+        font-size: 24px;
+}
+.twoxone {
+    width: 24%;
+    height: 80px;
+}
+.sixxone {
+    width: 74%;
+    height: 80px;
+}
+div {
+    display:inline-block;
+}
+.icon-holder {
+    padding: 16px 16px 0 16px;
+    
+    
+}
